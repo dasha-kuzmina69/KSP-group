@@ -16,4 +16,6 @@
 
 [Видео полёта](https://drive.google.com/drive/folders/15KvtGxoU5ksNWCRkgAC0ViL1waptxgWB)
 
+[Код](https://github.com/dasha-kuzmina69/KSP-group/tree/main/code)
+
 [Папка проекта на Google Drive](https://drive.google.com/drive/folders/15KvtGxoU5ksNWCRkgAC0ViL1waptxgWB)
